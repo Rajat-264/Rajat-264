@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rajat Hande (@Rajat-264)
 
-- 👨‍💻 I’m a Computer Science engineering student passionate about building innovative solutions.
+- 👨‍💻 I’m a Computer Science engineering student at NIT Calicut, passionate about building innovative solutions.
 - 🔭 I’m currently working on real-time web apps, AI-enhanced tools, and microservices integration.
 - 🌱 I’m currently learning Kafka, Redis, Docker, and advanced AI prompting with LLaMA/Groq.
 - 💡 I’ve built projects with the MERN stack, Socket.IO, Spring Boot and Chrome Extensions.
