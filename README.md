@@ -6,7 +6,7 @@
 - 💡 I’ve built projects with the MERN stack, Socket.IO, Spring Boot and Chrome Extensions.
 - 🤝 I’m looking to collaborate on AI-integrated web platforms, system-level utilities, and research-driven tools.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajat-hande-a11835283/)
-- [Instagram]: (https://www.instagram.com/rajat_hande/)
+- 📷 Instagram: [Instagram](https://www.instagram.com/rajat_hande/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love combining low-level logic with high-level UX to create intuitive, high-performance experiences.
 
