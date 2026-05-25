@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Rajat Hande (@Rajat-264)
 
-- 👨‍💻 I’m a Computer Science engineering student at NIT Calicut, passionate about building innovative solutions.
-- 🔭 I’m currently working on real-time web apps, AI-enhanced tools, and microservices integration.
-- 🌱 I’m currently learning Kafka, Redis, Docker, and advanced AI prompting with LLaMA/Groq.
-- 💡 I’ve built projects with the MERN stack, Socket.IO, Spring Boot and Chrome Extensions.
+- 👨‍💻 I have done Computer Science Engineering from NIT Calicut, passionate about building innovative solutions.
+- 🔭 I’m currently working as Senior Technical Analyst at Ribbon Communications.
+- 💡 As hobby, I’ve built projects with the MERN stack, Socket.IO, Spring Boot and Chrome Extensions.
 - 🤝 I’m looking to collaborate on AI-integrated web platforms, system-level utilities, and research-driven tools.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajat-hande-a11835283/)
 - 📷 Instagram: [Instagram](https://www.instagram.com/rajat_hande/)
